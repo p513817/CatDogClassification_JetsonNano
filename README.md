@@ -6,7 +6,7 @@
 | ---- | ---|
 | 所屬單位  | Cavedu 教育團隊 |
 | 開發日期  | 10908 |
-| 文章連結  | https://www.rs-online.com/designspark/pytorchx-nvidia-jetsonnano-cn |
+| 文章連結  | https://www.rs-online.com/designspark/pytorchx-nvidia-jetsonnano-2-cn |
 
 ___
 
