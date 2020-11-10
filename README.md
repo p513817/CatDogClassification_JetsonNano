@@ -1,4 +1,4 @@
-# Pytorch深度學習框架X NVIDIA JetsonNano應用-線性回歸與實作
+# Pytorch深度學習框架X NVIDIA JetsonNano應用-貓狗分類器
 
 ![image](images/result.png)
 
